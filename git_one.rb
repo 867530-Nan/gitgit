@@ -9,3 +9,5 @@ end
 def another_thingy
 
 end
+
+puts "heeehee"

@@ -11,3 +11,5 @@ def another_thingy
 end
 
 puts "heeehee"
+
+puts "ting ting"
